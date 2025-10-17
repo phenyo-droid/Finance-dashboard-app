@@ -1,2 +1,1 @@
-# Finance dashboard app
-yt tut app
+YouTube Video: https://youtu.be/HcNI3oqRoKQ
